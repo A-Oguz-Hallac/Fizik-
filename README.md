@@ -3,8 +3,8 @@ Yavuzselim ALTINOK 9B 59
 
 ### 5 Minute Mac & Cheese
 ## Malzemeler
-1/2 kap makarna (50 g) (185,6 kalori)
-1/2 kap su (120 mL)
+- 1/2 kap makarna (50 g) (185,6 kalori) 
+- 1/2 kap su (120 mL)
 3 kaşık süt (30 mL) (10 gramı 4,2 kalori)
 tuz
 karabiber
