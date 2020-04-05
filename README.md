@@ -1,4 +1,4 @@
-# fizik-devi
+# fizik-ödevi
 Yavuzselim ALTINOK 9B 59
 
 ### 5 Minute Mac & Cheese
